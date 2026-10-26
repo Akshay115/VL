@@ -27,7 +27,7 @@ build.py        generates the HTML pages (shared header/footer)
 
 - Fonts: Cormorant Garamond (display), Montserrat (body), Mrs Saint Delafield (script). All are loaded from Google Fonts.
 - Palette: `#111111` background, `#f3eee7` cream text, `#1d3412` WhatsApp-green CTA.
-- Every "Book Your Shoot" button opens WhatsApp. To add a business number, change the `WA` constant in `build.py` (for example `https://wa.me/9715XXXXXXXX?text=...`) and rebuild.
+- Every "Book Your Shoot" button opens a WhatsApp chat with **+44 7840 433511** and a pre-filled booking message. To change the number, edit the `WA` constant in `build.py` and run `python3 build.py`.
 
 ## Development
 

@@ -1,6 +1,6 @@
 import os, sys
 OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.abspath(__file__))
-WA = "https://wa.me/?text=Hi%20VL%20Dubai%2C%20I%27d%20like%20to%20book%20a%20fashion%20photoshoot."
+WA = "https://wa.me/447840433511?text=Hi%20VL%20Dubai%2C%20I%27d%20like%20to%20book%20a%20fashion%20photoshoot."
 
 PAGES = [
     ("index.html", "Home"),
